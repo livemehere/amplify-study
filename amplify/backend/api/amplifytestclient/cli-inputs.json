@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifytestclient",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/gongtaemin/Documents/aws-study/amplify/amplify-test-client/amplify/backend/api/amplifytestclient/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
